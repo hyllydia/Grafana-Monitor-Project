@@ -1,0 +1,287 @@
+2025-11-25 23:16:36.786904 RAW Data:
+
+11/26 15:17:09: Memory Summary:
+Total system memory:          16056856 KiB
+Free system memory:            3452988 KiB
+Available system memory:       8230124 KiB
+All Available memory:          8271602 KiB
+Total allocated to SonicOS:    2201188 KiB
+Peak allocated to SonicOS:     2201188 KiB
+
+Type               Num Allocations  Bytes Allocated
+
+size-16                    1247592         34997582
+size-32                     373751         15493478
+size-64                    2820560        189942145
+size-128                    313661         32369642
+size-256                   1980853        374955996
+size-512                     33515         13821234
+size-1K                      19342         16561128
+size-2K                       3774          5541868
+size-4K                      14110         48110779
+size-8K                        778          3702918
+size-16K                      1757         19405649
+size-24K                        83          1627273
+size-32K                        67          2165588
+size-64K                       623         22788031
+size-128K                      531         36064713
+size-256K                       29          5244824
+size-oversize                  180        759815405
+rbtreeNodeZone                   3               96
+botnetNode                       0                0
+cacheElem                    50116         72167040
+SSO-UserConns                    0                0
+UserConn                         3              144
+idpState                         0                0
+gavStreamState                   0                0
+afStreamState                    0                0
+ipReport                         0                0
+
+Total allocated: 1654775533 bytes
+
+Memory Usage Report Enabled, Memory Leak Detection Disabled
+SwMemHdr osPadSize HWM:        4064
+SwMemHdr osPadSize overflows:  0
+
+Current Top Memory Usage Reports (collecting 8 top callers, sorted by allocations)
+Type: size-16 
+    Total Alloc Count: 1247592, caller count: 158, recorded allocs/frees: 537459471/536211879
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        45       563139      9010224 param_create:230
+        33       416469      2700556 param_strDup:258
+         8       109180      1168952 idp_rule_parser_strdup:723
+         2        32768       524288 IpsecHandleInit:233
+         1        19602       313632 hashTable_add:135
+         1        18516       239580 pal_mem_malloc:71
+         1        16710       127136 pal_mem_calloc:96
+         1        15014       240224 sortListAddMain:133
+Type: size-32 
+    Total Alloc Count: 373751, caller count: 155, recorded allocs/frees: 252434468/252060717
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        28       106511      2389134 param_strDup:258
+        10        37742      1207744 _createGidEntry:13225
+         9        36551       877224 gen_hash_node_create:210
+         8        30527       732648 updateRefererInfo:2462
+         8        30104       963328 paramMember_create:4187
+         5        21237       679584 updateRefererInfo:2444
+         5        21098       421960 _addSigIdToGavGroup:2744
+         3        13407       288576 idp_rule_parser_strdup:723
+Type: size-64 
+    Total Alloc Count: 2820560, caller count: 133, recorded allocs/frees: 382247249/379426689
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        68      1920002     92160096 crypto/evp/digest.c:51
+        23       676269     43281216 paramNode_create:2668
+         3        96784      3677679 param_strDup:258
+         0        21516      1032768 permission_set_add:691
+         0        21098       843920 sfAddVirName:9959
+         0        17558       966912 pal_mem_calloc:96
+         0        11535       403725 ldapDoBindAsync:2264
+         0        11535       415260 obfuscateUserPasswdAlloc:1356
+Type: size-128 
+    Total Alloc Count: 313661, caller count: 108, recorded allocs/frees: 45882349/45568688
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        66       209038     18395344 paramGroup_create:696
+        12        37658      3012640 idp_header_match_node_malloc:274
+         6        20066      1582607 pal_mem_calloc:96
+         3        10758      1151106 sshkey_alg_list:354
+         2         9365       749200 initAppD:9790
+         2         8224       855296 paramMeta_create:30
+         1         5290       423200 dbSemAdd:1698
+         1         4294       343520 initAppD:9731
+Type: size-256 
+    Total Alloc Count: 1980853, caller count: 76, recorded allocs/frees: 100530715/98549862
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        64      1280164    215067552 crypto/evp/evp_enc.c:43
+        32       640000    117760000 crypto/hmac/hmac.c:135
+         1        20553      2795208 _createPolicyName:394
+         0        11535      2952960 ldapAllocAsyncConn:329
+         0         9365      1236180 _addSigIdToIpsGroup:2726
+         0         5532       973632 _addNhpMac:1851
+         0         3992       526944 _addSigIdToAppGroup:2708
+         0         3036       777216 allocBitmapNode:431
+Type: size-512 
+    Total Alloc Count: 33515, caller count: 111, recorded allocs/frees: 24261224/24227709
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        62        21058      8790488 sortedTableAdd:145
+         8         3000       984000 autoLognErrTreeRecordAuthError:941
+         8         2798      1008248 pal_mem_calloc:96
+         5         2002       816816 userObjTableAdd:245
+         3         1023       278256 nct_new:229
+         1          605       192390 token_construct:37
+         1          577       295424 allocBitmapNode:431
+         1          569       200288 crypto/asn1/tasn_new.c:122
+Type: size-1K 
+    Total Alloc Count: 19342, caller count: 66, recorded allocs/frees: 175113444/175094102
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        59        11535      9412560 ldapAllocAsyncConn:318
+        27         5271      4849320 _swSemCreate:2103
+         5         1008       862848 l2_discovery_task:212
+         2          463       365657 crypto/asn1/tasn_utl.c:147
+         1          196       104590 crypto/asn1/a_bitstr.c:117
+         0          167        95524 read_pool_entry:559
+         0          143       108680 allocBitmapNode:431
+         0           91        86456 sortedTableAdd:145
+Type: size-2K 
+    Total Alloc Count: 3774, caller count: 59, recorded allocs/frees: 735209515/735205741
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        24          935       964920 domainTrieCreateNode:362
+        16          639      1053072 addPbrObjAtom:2596
+        16          638      1076944 sortedTableAdd:145
+        16          615       659280 ml_construct:29
+        16          615      1259520 ml_construct:34
+         2          109       146598 PKCertNewCert:594
+         1           44        54384 crypto/asn1/tasn_utl.c:147
+         0           22        32314 buildStagingArea:3184
+Type: size-4K 
+    Total Alloc Count: 14110, caller count: 43, recorded allocs/frees: 3512369/3498259
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        53         7585     30886120 allocPolicy:940
+        30         4294     10511712 initAppD:9768
+         9         1305      2949300 allocBitmapNode:431
+         4          682      2793472 gen_hash_table_create:63
+         0           60       126240 netMonPolicy_allocProbeHistory:1133
+         0           28       114688 paramHash_construct:4559
+         0           17        34952 pcache1ResizeHash:30408
+         0           15        61440 init_gav_tls:302
+Type: size-8K 
+    Total Alloc Count: 778, caller count: 39, recorded allocs/frees: 1487321/1486543
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        81          634      2752720 pcache1Alloc:30300
+         4           38       234528 gen_mm_default_malloc_func:287
+         3           31       245838 pal_mem_calloc:96
+         1           12        74656 sortedTableAdd:145
+         1            8        43552 sortedTableInit:19
+         0            6        36048 sqlite3DbMallocZero:16180
+         0            5        40960 gen_hash_table_create:63
+         0            4        21704 buildStagingArea:3184
+Type: size-16K 
+    Total Alloc Count: 1757, caller count: 40, recorded allocs/frees: 446321011/446319254
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        29          522      5073840 ifGetCloneList:1103
+        27          488      4743360 ifCommitChange:628
+        22          393      4882632 blNetDevAdd:634
+         4           77       946176 crypto/rand/rand_lib.c:444
+         3           62       761856 vpnBlNetImplDevLoad:286
+         2           42       687760 hashTable_init:37
+         1           34       557056 ifRuntimeDataInit:1289
+         1           34       422416 odpDataPlaneDevLoad:672
+Type: size-24K 
+    Total Alloc Count: 83, caller count: 17, recorded allocs/frees: 5563392/5563309
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        18           15       300000 init_sslspy_dp_global:284
+        18           15       300000 init_sslspy_dp_global:282
+        18           15       300000 init_sslspy_dp_global:280
+        12           10       166440 pal_mem_calloc:96
+        10            9       148104 tty_construct:67
+         9            8       194880 gen_mm_default_malloc_func:287
+         1            1        20480 preInitRadius:546
+         1            1        16472 ssl/record/ssl3_buffer.c:120
+Type: size-32K 
+    Total Alloc Count: 67, caller count: 12, recorded allocs/frees: 84008489/84008422
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        82           55      1802240 paramHash_construct:4559
+         2            2        58368 sortedTableInit:19
+         1            1        32000 VpnSpdLookupInit:98
+         1            1        32768 httpInit:895
+         1            1        25808 flExtendFreeList:1408
+         1            1        32768 preInitCIAAuth:243
+         1            1        32768 gen_hash_table_create:63
+         1            1        32768 initVpnRuleTable:3907
+Type: size-64K 
+    Total Alloc Count: 623, caller count: 25, recorded allocs/frees: 106704/106081
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        78          488     17251776 _addV6IfaceNode:5395
+        16          104      3993600 gen_mm_default_malloc_func:287
+         0            4       262144 gen_hash_table_create:63
+         0            4       163840 floodProtectInit:181
+         0            3       116736 dynArray_init:55
+         0            1        52008 setupLookaside:30300
+         0            1        36096 initDecPolicyTable:632
+         0            1        34045 paramUpdateDynString:5967
+Type: size-128K 
+    Total Alloc Count: 531, caller count: 23, recorded allocs/frees: 11497/10966
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        91          488     32012800 _addV6DIfaceNode:3225
+         1            9       609120 dataStore_create:198
+         1            6       786432 gen_hash_table_create:63
+         0            4       510088 sortedTableInit:19
+         0            2       164020 slCreate:78
+         0            2       197028 iphRouteCreate:322
+         0            2       162096 flExtendFreeList:1408
+         0            2       201216 gen_mm_default_malloc_func:287
+Type: size-256K 
+    Total Alloc Count: 29, caller count: 23, recorded allocs/frees: 11605/11576
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        20            6       858784 sortedTableInit:19
+         6            2       320000 IpsecMemPoolInit:103
+         3            1       196656 createReportBucketLocks:1068
+         3            1       262144 IpsecHandleInit:223
+         3            1       262144 userIpInit:1929
+         3            1       252000 _preAllocateMem:900
+         3            1       179200 userAuthPartitionsPreInit:308
+         3            1       168000 wgConfigInit:106
+Type: size-oversize 
+    Total Alloc Count: 180, caller count: 51, recorded allocs/frees: 4149/3969
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+        16           30     86401440 swTimerTableCreate:140
+        10           18    106452480 gen_mm_default_malloc_func:287
+         8           16     14024704 _initMainFlowData:996
+         8           16      5111808 _initMainFlowData:1009
+         8           16      5111808 _initMainFlowData:1002
+         8           15      4608000 init_gav_tls:292
+         2            5      2621440 local_query_match:1729
+         2            4      4197760 flExtendFreeList:1408
+Type: rbtreeNodeZone 
+    Total Alloc Count: 3, caller count: 1, recorded allocs/frees: 3/0
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+       100            3           48 rbtree_create:242
+Type: botnetNode 
+    Total Alloc Count: 0, caller count: 0, recorded allocs/frees: 0/0
+Type: cacheElem 
+    Total Alloc Count: 50116, caller count: 1, recorded allocs/frees: 50116/0
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+       100        50116     71365184 ce_pool_alloc:345
+Type: SSO-UserConns 
+    Total Alloc Count: 0, caller count: 0, recorded allocs/frees: 0/0
+Type: UserConn 
+    Total Alloc Count: 3, caller count: 1, recorded allocs/frees: 1477683/1477680
+    Alloc%  Alloc Count  Alloc Bytes FuncName:LineNumber
+       100            3           96 usrConnRegister:830
+Type: idpState 
+    Total Alloc Count: 0, caller count: 0, recorded allocs/frees: 1/1
+Type: gavStreamState 
+    Total Alloc Count: 0, caller count: 0, recorded allocs/frees: 0/0
+Type: afStreamState 
+    Total Alloc Count: 0, caller count: 0, recorded allocs/frees: 0/0
+Type: ipReport 
+    Total Alloc Count: 0, caller count: 0, recorded allocs/frees: 0/0
+DPI-SSL memory usage     - requests: 0,     frees: 0 
+
+Top Memory Usage Reports (8 reports each collecting 8 top callers)
+Zone: size-16 (run every 240 minutes)
+Zone: size-32 (run every 240 minutes)
+Zone: size-64 (run every 240 minutes)
+Zone: size-128 (run every 240 minutes)
+Zone: size-256 (run every 240 minutes)
+Zone: size-512 (run every 240 minutes)
+Zone: size-1K (run every 240 minutes)
+Zone: size-2K (run every 240 minutes)
+Zone: size-4K (run every 240 minutes)
+Zone: size-8K (run every 240 minutes)
+Zone: size-16K (run every 240 minutes)
+Zone: size-24K (run every 240 minutes)
+Zone: size-32K (run every 240 minutes)
+Zone: size-64K (run every 240 minutes)
+Zone: size-128K (run every 240 minutes)
+Zone: size-256K (run every 240 minutes)
+Zone: size-oversize (run every 240 minutes)
+Zone: rbtreeNodeZone (run every 240 minutes)
+Zone: botnetNode (run every 240 minutes)
+Zone: cacheElem (run every 240 minutes)
+Zone: SSO-UserConns (run every 240 minutes)
+Zone: UserConn (run every 240 minutes)
+Zone: idpState (run every 240 minutes)
+Zone: gavStreamState (run every 240 minutes)
+Zone: afStreamState (run every 240 minutes)
+Zone: ipReport (run every 240 minutes)
+

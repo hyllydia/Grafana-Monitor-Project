@@ -1,0 +1,25 @@
+2025-11-23 19:13:36.638633 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         NSsp 11700
+Product Code:                  23305
+Firewall Name:                 2CB8EDA346B8
+Serial Number:                 2CB8EDA346B8
+Authentication Code:           7E7L-536A
+Firmware Version:              SonicOS 7.3.2-7001
+ROM Version:                   1.1.1.4
+System Time:                   UTC 11/24/2025 03:12:49
+Up Time:                       1 Day 12:17:35
+Primary WAN:                   X1
+Peak Connections:              Peak: 487363
+Current Connections:           Current: 103323
+Max Allowed Connections:       Max Allowed: 17000000
+Max Connections:               Max: 17000000
+Connection Usage:              0.608%
+Last Modified By:              Unmodified since reboot
+Registration Code:             XAU7W4A3
+Global Mode:                   Yes
+--MORE--

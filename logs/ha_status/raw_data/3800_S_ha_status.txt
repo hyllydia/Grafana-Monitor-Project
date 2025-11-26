@@ -1,0 +1,20 @@
+2025-11-25 23:18:39.650809 RAW Data:show high-availability status
+
+=========================
+High Availability Status:
+=========================
+
+HA Mode:                        Active / Standby
+Status:                         Secondary STANDBY
+Primary State:                  ACTIVE
+Secondary State:                STANDBY
+Active Up Time:                 Not Active
+Found Peer:                     Yes
+Settings Synchronized:          Yes
+Stateful HA Synchronized:       Yes
+HA Control Link:                X22 1000 Mbps full-duplex
+HA Data Link:                   X22 1000 Mbps full-duplex
+Active/Active DPI Link:         Not Configured
+Primary Stateful HA Licensed:   Yes
+Secondary Stateful HA Licensed: Yes
+admin@18C241760433> 

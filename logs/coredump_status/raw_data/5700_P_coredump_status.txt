@@ -1,0 +1,2 @@
+2025-11-25 23:12:41.292837 RAW Data:export core-dump 
+admin@2CB8EDA2D4C4> export core-dump 

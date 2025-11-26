@@ -1,0 +1,25 @@
+2025-11-25 23:13:01.325249 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         TZ 480
+Product Code:                  25305
+Firewall Name:                 18c2418a3308
+Serial Number:                 18C2418A3308
+Authentication Code:           FZ63-P5KS
+Firmware Version:              SonicOS 8.0.4-8013
+ROM Version:                   7.1.0.12
+CPUs:                          83.55% - 4 Cores
+System Time:                   11/26/2025 15:12:45
+Up Time:                       1 Day 21:56:15
+Primary WAN:                   X1
+Peak Connections:              Peak: 188360
+Current Connections:           Current: 128600
+Max Allowed Connections:       Max Allowed: 280000
+Max Connections:               Max: 280000
+Connection Usage:              45.929%
+Last Modified By:              Unmodified since reboot
+Registration Code:             L3RMH5B2
+--MORE--

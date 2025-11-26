@@ -1,0 +1,45 @@
+2025-11-23 20:48:02.565065 RAW Data:
+
+11/24 12:48:18: Memory Summary:
+Total system memory:          65526836 KiB
+Free system memory:           30535404 KiB
+Available system memory:      39465380 KiB
+All Available memory:         39712514 KiB
+Total allocated to SonicOS:   14934564 KiB
+Peak allocated to SonicOS:    14934564 KiB
+
+Type               Num Allocations  Bytes Allocated
+
+size-16                    1559588         41767473
+size-32                    1640409         74249840
+size-64                    6045518        399558416
+size-128                    574875         65399152
+size-256                   4886654        930294703
+size-512                    106933         39560154
+size-1K                     190191        131889999
+size-2K                    2199252       3168195468
+size-4K                      62870        189578073
+size-8K                        849          4139410
+size-16K                      1892         20583746
+size-24K                     17437        358363458
+size-32K                        63          2042388
+size-64K                       420         15502579
+size-128K                      421         28806693
+size-256K                       36          6539320
+size-oversize                  243       2143877616
+rbtreeNodeZone                   3               96
+botnetNode                       0                0
+cacheElem                  1815691       2614595040
+SSO-UserConns                    0                0
+UserConn                      2499           119952
+idpState                         0                0
+gavStreamState                   0                0
+afStreamState                    0                0
+ipReport                     20645          3633520
+
+Total allocated: 1648762504 bytes
+
+Memory Usage Report Disabled, Memory Leak Detection Disabled
+SwMemHdr osPadSize HWM:        4064
+SwMemHdr osPadSize overflows:  0
+

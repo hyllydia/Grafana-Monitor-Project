@@ -1,0 +1,48 @@
+2025-11-25 23:13:57.805059 RAW Data:show tech-support-report dpi-ssl client
+
+--General Settings--
+Client DPI-SSL                      : Licensed
+Enable SSL Client Inspection        : Enabled
+  IDP                               : Disabled
+  GAV                               : Disabled
+  Anti-Spyware                      : Disabled
+  Application-Firewall              : Disabled
+  Content-Filter                    : Disabled
+Check SSL client-hello resemble stream depth: 512
+SSL proxied connection count        : 0/693/4000 (cur/highwater/max)
+SSL excluded connection count (cur/highwater): 0/0
+SSL no proxied info                 : 0/0/0 (noProxySession/noProxyPacket/lowMemoryDropPacket)
+Handshakes - FW-Client: Initiated:101344 Completed:101344 - FW-Server: Initiated:0 Completed:101344 
+
+Connection nonce:101345 
+SSL memory usage - request:0 free:0 
+SSL TCP alloc usage - request:1216125 free:1216125 
+DPI-SSL app memory usage - request:641960 free:640485 
+AvailInBytesCoarse:1088357142B AvailBytes:1088357142B lowThreshold:62453760B highThreshold:104089600B 
+HighThreshold pkt count :0 MemTrimCount:0 LowMemNewSessionDropCount :0 
+Cache spoofed certificates          : Enabled
+Disable CFS Modification            : No
+Remove TCP timestamp                : No
+
+--Certificate re-signing Authority--
+Certificate                         : Default SonicWall DPI-SSL 2048 bit CA certificate
+Audit-built-in-exclusion-domains:0 audit_exclusions_sonicos_upgrade:1  exclusion_notification_available:0 cfs-query-miss:0 cfs-delayed-query:0  
+ctx_delayed_cleanup_reqs:0  cfs_server_not_alive_errs:0 dummy-needs-replacement:2 
+dynamic_default_exclusion_upgrade:1 whitelist_download_in_progress:0  running_exclusion_timestamp:238056840000 Exclusion_lastCheckTs:238387592460 lm_exclusion_timestamp:221982766800 
+Always-authenticate-before-exclusion-policy:0 Always-authenticate-before-decrypt:0 Allow-expired-CA:0 disableDynamicExclusion:0 dropPktWhenMemLow:1 Bypass-over-connection-limit:1 
+maxNumConnectionsFailureHistory:100 maxSimilarFailures:20 rollOverFailureHistory:1 disable-dynamic-exclusion:0 disableEndpointTCPWindow:0 
+
+------------Enc/Dec Stats------------
+
+SslConnectionsAccepted 101344 
+ConnectionsConnected 101344 
+ClientHelloRetrans 0 
+SslConnectionsSkipped 0 
+SslConnectionsDropped 0 
+SslConnectionsBypass 0 
+SslConnectionsBypassed 0 
+SslSegmentedConnectionsSkipped 0 
+SslSegmentedConnectionsDropped 0 
+SslSegmentedConnectionsBypass 0 
+ClientHelloFrames 101344 
+--MORE--

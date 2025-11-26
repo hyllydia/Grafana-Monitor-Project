@@ -1,0 +1,25 @@
+2025-11-24 07:21:19.398905 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         NSa 3800
+Product Code:                  24606
+Firewall Name:                 18C241760433
+Serial Number:                 18C241760433
+Authentication Code:           3JPA-7XR4
+Firmware Version:              SonicOS 8.1.0-8017
+ROM Version:                   1.0.1.0
+CPUs:                          1.55% - 8 Cores
+System Time:                   11/24/2025 23:19:59
+Up Time:                       6 Days 07:39:01
+Primary WAN:                   X24
+Peak Connections:              Peak: 404278
+Current Connections:           Current: 17106
+Max Allowed Connections:       Max Allowed: 1200000
+Max Connections:               Max: 1200000
+Connection Usage:              1.426%
+Last Modified By:              Unmodified since reboot
+Registration Code:             GG7CZU2R
+--MORE--

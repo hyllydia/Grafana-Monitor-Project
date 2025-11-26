@@ -1,0 +1,25 @@
+2025-11-25 23:16:55.726669 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         TZ 680
+Product Code:                  25005
+Firewall Name:                 18c241a14070
+Serial Number:                 18C241A14070
+Authentication Code:           UWGS-LE85
+Firmware Version:              SonicOS 8.1.0-8017
+ROM Version:                   7.1.0.14
+CPUs:                          0.55% - 4 Cores
+System Time:                   UTC 11/26/2025 07:16:38
+Up Time:                       5 Days 00:03:19
+Primary WAN:                   X1
+Peak Connections:              Peak: 4984
+Current Connections:           Current: 2659
+Max Allowed Connections:       Max Allowed: 480000
+Max Connections:               Max: 480000
+Connection Usage:              0.554%
+Last Modified By:              admin 127.0.0.1:X1 GMS UTC 11/23/2025 21:16:16
+Registration Code:             VB8WZ93P
+--MORE--

@@ -1,0 +1,25 @@
+2025-11-25 23:15:28.962905 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         TZ 580
+Product Code:                  24406
+Firewall Name:                 18C241A14034
+Serial Number:                 18C241AF6588
+Authentication Code:           8NSC-EAZG
+Firmware Version:              SonicOS 8.1.0-8017
+ROM Version:                   7.1.0.12
+CPUs:                          7.03% - 4 Cores
+System Time:                   11/26/2025 15:15:11
+Up Time:                       2 Days 23:39:52
+Primary WAN:                   X1
+Peak Connections:              Peak: 500014
+Current Connections:           Current: 6081
+Max Allowed Connections:       Max Allowed: 500000
+Max Connections:               Max: 500000
+Connection Usage:              1.216%
+Last Modified By:              Unmodified since reboot
+Registration Code:             VHW3CWMX
+--MORE--

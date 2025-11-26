@@ -1,0 +1,3323 @@
+2025-11-19 23:18:32.462956 RAW Data:diag show memory summary
+
+11/20 15:17:04: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8515816 KiB
+Available system memory:       8895884 KiB
+All Available memory:          9886665 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-19 23:24:57.537580 RAW Data:diag show memory summary
+
+11/20 15:23:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516072 KiB
+Available system memory:       8896052 KiB
+All Available memory:          9888196 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-19 23:31:22.680661 RAW Data:diag show memory summary
+
+11/20 15:29:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516612 KiB
+Available system memory:       8897040 KiB
+All Available memory:          9888794 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-19 23:37:47.516834 RAW Data:diag show memory summary
+
+11/20 15:36:19: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8519668 KiB
+Available system memory:       8900036 KiB
+All Available memory:          9891338 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-19 23:44:11.970534 RAW Data:diag show memory summary
+
+11/20 15:42:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517656 KiB
+Available system memory:       8898220 KiB
+All Available memory:          9890007 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-19 23:49:48.293249 RAW Data:diag show memory summary
+
+11/20 15:48:20: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516716 KiB
+Available system memory:       8897200 KiB
+All Available memory:          9888990 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-19 23:55:42.762080 RAW Data:diag show memory summary
+
+11/20 15:54:15: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8523276 KiB
+Available system memory:       8903976 KiB
+All Available memory:          9894731 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-20 00:07:28.272928 RAW Data:diag show memory summary
+
+11/20 16:06:00: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8521024 KiB
+Available system memory:       8901888 KiB
+All Available memory:          9891634 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-20 00:13:21.096646 RAW Data:diag show memory summary
+
+11/20 16:11:53: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516444 KiB
+Available system memory:       8897580 KiB
+All Available memory:          9889420 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-20 00:18:41.904086 RAW Data:diag show memory summary
+
+11/20 16:17:14: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8523260 KiB
+Available system memory:       8904432 KiB
+All Available memory:          9896695 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-20 00:29:28.470373 RAW Data:diag show memory summary
+
+11/20 16:28:00: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8520740 KiB
+Available system memory:       8902040 KiB
+All Available memory:          9892931 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-20 00:35:54.343755 RAW Data:diag show memory summary
+
+11/20 16:34:26: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8519760 KiB
+Available system memory:       8901192 KiB
+All Available memory:          9893039 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-20 00:41:16.749868 RAW Data:diag show memory summary
+
+11/20 16:39:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8518752 KiB
+Available system memory:       8900192 KiB
+All Available memory:          9890646 KiB
+Total allocated to SonicOS:    4728540 KiB
+Peak allocated to SonicOS:     4728540 KiB
+
+
+admin@18C241760433> 2025-11-20 00:46:07.596181 RAW Data:diag show memory summary
+
+11/20 16:44:39: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517492 KiB
+Available system memory:       8899072 KiB
+All Available memory:          9889558 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 00:57:57.480156 RAW Data:diag show memory summary
+
+11/20 16:56:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8522288 KiB
+Available system memory:       8904104 KiB
+All Available memory:          9895870 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:03:21.979993 RAW Data:diag show memory summary
+
+11/20 17:01:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8521280 KiB
+Available system memory:       8903112 KiB
+All Available memory:          9894983 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:09:46.959661 RAW Data:diag show memory summary
+
+11/20 17:08:19: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8520020 KiB
+Available system memory:       8901920 KiB
+All Available memory:          9893740 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:16:11.589848 RAW Data:diag show memory summary
+
+11/20 17:14:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8518508 KiB
+Available system memory:       8900528 KiB
+All Available memory:          9892276 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:27:01.426343 RAW Data:diag show memory summary
+
+11/20 17:25:33: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516492 KiB
+Available system memory:       8898768 KiB
+All Available memory:          9889809 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:33:26.391097 RAW Data:diag show memory summary
+
+11/20 17:31:58: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8523052 KiB
+Available system memory:       8905300 KiB
+All Available memory:          9897103 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:39:20.956963 RAW Data:diag show memory summary
+
+11/20 17:37:53: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8521792 KiB
+Available system memory:       8904112 KiB
+All Available memory:          9895934 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:45:45.694391 RAW Data:diag show memory summary
+
+11/20 17:44:18: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8520028 KiB
+Available system memory:       8902704 KiB
+All Available memory:          9894781 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:52:10.323087 RAW Data:diag show memory summary
+
+11/20 17:50:42: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8518768 KiB
+Available system memory:       8901420 KiB
+All Available memory:          9892443 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 01:57:32.497433 RAW Data:diag show memory summary
+
+11/20 17:56:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517508 KiB
+Available system memory:       8900212 KiB
+All Available memory:          9890987 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 02:03:24.884885 RAW Data:diag show memory summary
+
+11/20 18:01:57: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516248 KiB
+Available system memory:       8899092 KiB
+All Available memory:          9889983 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 02:08:47.966760 RAW Data:diag show memory summary
+
+11/20 18:07:20: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8522556 KiB
+Available system memory:       8905496 KiB
+All Available memory:          9897428 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 02:15:12.802115 RAW Data:diag show memory summary
+
+11/20 18:13:45: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8521296 KiB
+Available system memory:       8904392 KiB
+All Available memory:          9895568 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 02:20:35.478881 RAW Data:diag show memory summary
+
+11/20 18:19:08: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8520540 KiB
+Available system memory:       8903720 KiB
+All Available memory:          9894400 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 02:26:32.191227 RAW Data:diag show memory summary
+
+11/20 18:25:04: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8519280 KiB
+Available system memory:       8902544 KiB
+All Available memory:          9893411 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 02:32:56.482667 RAW Data:diag show memory summary
+
+11/20 18:31:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8518272 KiB
+Available system memory:       8901672 KiB
+All Available memory:          9893898 KiB
+Total allocated to SonicOS:    4728544 KiB
+Peak allocated to SonicOS:     4728544 KiB
+
+
+admin@18C241760433> 2025-11-20 02:38:51.448869 RAW Data:diag show memory summary
+
+11/20 18:37:24: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517264 KiB
+Available system memory:       8900656 KiB
+All Available memory:          9891547 KiB
+Total allocated to SonicOS:    4728548 KiB
+Peak allocated to SonicOS:     4728548 KiB
+
+
+admin@18C241760433> 2025-11-20 02:44:28.080391 RAW Data:diag show memory summary
+
+11/20 18:43:00: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8522564 KiB
+Available system memory:       8906132 KiB
+All Available memory:          9868658 KiB
+Total allocated to SonicOS:    4728548 KiB
+Peak allocated to SonicOS:     4728548 KiB
+
+
+admin@18C241760433> 2025-11-20 02:50:53.190988 RAW Data:diag show memory summary
+
+11/20 18:49:25: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8518672 KiB
+Available system memory:       8902372 KiB
+All Available memory:          9889656 KiB
+Total allocated to SonicOS:    4728548 KiB
+Peak allocated to SonicOS:     4728548 KiB
+
+
+admin@18C241760433> 2025-11-20 02:57:19.386178 RAW Data:diag show memory summary
+
+11/20 18:55:52: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517664 KiB
+Available system memory:       8901360 KiB
+All Available memory:          9890129 KiB
+Total allocated to SonicOS:    4728548 KiB
+Peak allocated to SonicOS:     4728548 KiB
+
+
+admin@18C241760433> 2025-11-20 03:09:09.153685 RAW Data:diag show memory summary
+
+11/20 19:07:41: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8515144 KiB
+Available system memory:       8899052 KiB
+All Available memory:          9886903 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 03:31:16.711485 RAW Data:diag show memory summary
+
+11/20 19:29:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512372 KiB
+Available system memory:       8896572 KiB
+All Available memory:          9885448 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 03:36:39.314868 RAW Data:diag show memory summary
+
+11/20 19:35:12: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513632 KiB
+Available system memory:       8897892 KiB
+All Available memory:          9885291 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 03:42:32.315949 RAW Data:diag show memory summary
+
+11/20 19:41:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512120 KiB
+Available system memory:       8896556 KiB
+All Available memory:          9884281 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 03:48:58.483084 RAW Data:diag show memory summary
+
+11/20 19:47:31: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514892 KiB
+Available system memory:       8899324 KiB
+All Available memory:          9888243 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 03:54:25.283626 RAW Data:diag show memory summary
+
+11/20 19:52:58: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513380 KiB
+Available system memory:       8898020 KiB
+All Available memory:          9886215 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:00:50.477045 RAW Data:diag show memory summary
+
+11/20 19:59:23: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511616 KiB
+Available system memory:       8896292 KiB
+All Available memory:          9885392 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:06:43.059886 RAW Data:diag show memory summary
+
+11/20 20:05:15: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8518176 KiB
+Available system memory:       8903016 KiB
+All Available memory:          9891164 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:13:07.448885 RAW Data:diag show memory summary
+
+11/20 20:11:40: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516664 KiB
+Available system memory:       8901576 KiB
+All Available memory:          9889615 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:19:33.380362 RAW Data:diag show memory summary
+
+11/20 20:18:06: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514900 KiB
+Available system memory:       8900108 KiB
+All Available memory:          9888074 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:25:58.491498 RAW Data:diag show memory summary
+
+11/20 20:24:31: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513428 KiB
+Available system memory:       8898576 KiB
+All Available memory:          9887836 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:32:24.547828 RAW Data:diag show memory summary
+
+11/20 20:30:57: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512196 KiB
+Available system memory:       8897464 KiB
+All Available memory:          9885370 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:37:18.766337 RAW Data:diag show memory summary
+
+11/20 20:35:51: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511440 KiB
+Available system memory:       8896756 KiB
+All Available memory:          9884859 KiB
+Total allocated to SonicOS:    4728584 KiB
+Peak allocated to SonicOS:     4728584 KiB
+
+
+admin@18C241760433> 2025-11-20 04:43:12.968061 RAW Data:diag show memory summary
+
+11/20 20:41:45: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517496 KiB
+Available system memory:       8902936 KiB
+All Available memory:          9892196 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 04:49:38.063432 RAW Data:diag show memory summary
+
+11/20 20:48:10: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516236 KiB
+Available system memory:       8901892 KiB
+All Available memory:          9889717 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 04:55:32.791404 RAW Data:diag show memory summary
+
+11/20 20:54:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514220 KiB
+Available system memory:       8899812 KiB
+All Available memory:          9887924 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:01:59.570048 RAW Data:diag show memory summary
+
+11/20 21:00:32: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512960 KiB
+Available system memory:       8898664 KiB
+All Available memory:          9887793 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:08:25.001860 RAW Data:diag show memory summary
+
+11/20 21:06:57: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511700 KiB
+Available system memory:       8897512 KiB
+All Available memory:          9886321 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:20:05.673953 RAW Data:diag show memory summary
+
+11/20 21:18:38: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517756 KiB
+Available system memory:       8903692 KiB
+All Available memory:          9892952 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:26:01.980015 RAW Data:diag show memory summary
+
+11/20 21:24:34: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8515740 KiB
+Available system memory:       8901820 KiB
+All Available memory:          9890759 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:31:16.129117 RAW Data:diag show memory summary
+
+11/20 21:29:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514984 KiB
+Available system memory:       8901176 KiB
+All Available memory:          9890440 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:36:23.057249 RAW Data:diag show memory summary
+
+11/20 21:34:56: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514480 KiB
+Available system memory:       8900808 KiB
+All Available memory:          9888485 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:42:48.030214 RAW Data:diag show memory summary
+
+11/20 21:41:21: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513472 KiB
+Available system memory:       8899864 KiB
+All Available memory:          9887496 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:49:12.235190 RAW Data:diag show memory summary
+
+11/20 21:47:45: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512716 KiB
+Available system memory:       8899128 KiB
+All Available memory:          9886732 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 05:59:56.557346 RAW Data:diag show memory summary
+
+11/20 21:58:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510952 KiB
+Available system memory:       8897444 KiB
+All Available memory:          9885549 KiB
+Total allocated to SonicOS:    4728588 KiB
+Peak allocated to SonicOS:     4728588 KiB
+
+
+admin@18C241760433> 2025-11-20 06:05:50.288127 RAW Data:diag show memory summary
+
+11/20 22:04:23: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8517512 KiB
+Available system memory:       8904000 KiB
+All Available memory:          9891688 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:11:46.806007 RAW Data:diag show memory summary
+
+11/20 22:10:19: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516504 KiB
+Available system memory:       8903128 KiB
+All Available memory:          9891212 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:17:41.734477 RAW Data:diag show memory summary
+
+11/20 22:16:14: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514488 KiB
+Available system memory:       8901260 KiB
+All Available memory:          9890476 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:29:31.972407 RAW Data:diag show memory summary
+
+11/20 22:28:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511968 KiB
+Available system memory:       8898928 KiB
+All Available memory:          9886695 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:35:24.685362 RAW Data:diag show memory summary
+
+11/20 22:33:57: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510960 KiB
+Available system memory:       8898084 KiB
+All Available memory:          9885977 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:41:49.475998 RAW Data:diag show memory summary
+
+11/20 22:40:22: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509448 KiB
+Available system memory:       8896656 KiB
+All Available memory:          9885563 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:48:14.139396 RAW Data:diag show memory summary
+
+11/20 22:46:47: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8516260 KiB
+Available system memory:       8903448 KiB
+All Available memory:          9891138 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:54:38.737177 RAW Data:diag show memory summary
+
+11/20 22:53:11: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8515252 KiB
+Available system memory:       8902560 KiB
+All Available memory:          9891353 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 06:59:59.611274 RAW Data:diag show memory summary
+
+11/20 22:58:32: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513740 KiB
+Available system memory:       8901004 KiB
+All Available memory:          9888794 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 07:05:54.322109 RAW Data:diag show memory summary
+
+11/20 23:04:27: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512984 KiB
+Available system memory:       8900588 KiB
+All Available memory:          9889786 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 07:11:31.257108 RAW Data:diag show memory summary
+
+11/20 23:10:04: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511472 KiB
+Available system memory:       8899048 KiB
+All Available memory:          9888207 KiB
+Total allocated to SonicOS:    4728596 KiB
+Peak allocated to SonicOS:     4728596 KiB
+
+
+admin@18C241760433> 2025-11-20 07:23:18.858061 RAW Data:diag show memory summary
+
+11/20 23:21:52: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508448 KiB
+Available system memory:       8896232 KiB
+All Available memory:          9884149 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 07:28:42.272290 RAW Data:diag show memory summary
+
+11/20 23:27:15: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8515008 KiB
+Available system memory:       8902936 KiB
+All Available memory:          9890622 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 07:40:01.751878 RAW Data:diag show memory summary
+
+11/20 23:38:34: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512992 KiB
+Available system memory:       8901072 KiB
+All Available memory:          9890010 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 07:45:11.168078 RAW Data:diag show memory summary
+
+11/20 23:43:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512236 KiB
+Available system memory:       8900248 KiB
+All Available memory:          9888725 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 07:51:05.171708 RAW Data:diag show memory summary
+
+11/20 23:49:38: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510976 KiB
+Available system memory:       8899100 KiB
+All Available memory:          9887018 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 07:57:29.979635 RAW Data:diag show memory summary
+
+11/20 23:56:03: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509464 KiB
+Available system memory:       8897744 KiB
+All Available memory:          9885434 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:02:22.042908 RAW Data:diag show memory summary
+
+11/21 00:00:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508204 KiB
+Available system memory:       8896572 KiB
+All Available memory:          9884351 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:07:12.969768 RAW Data:diag show memory summary
+
+11/21 00:05:46: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8515016 KiB
+Available system memory:       8903444 KiB
+All Available memory:          9891556 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:13:07.765080 RAW Data:diag show memory summary
+
+11/21 00:11:41: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513504 KiB
+Available system memory:       8902000 KiB
+All Available memory:          9889761 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:18:30.654220 RAW Data:diag show memory summary
+
+11/21 00:17:03: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512496 KiB
+Available system memory:       8901136 KiB
+All Available memory:          9889057 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:24:54.315836 RAW Data:diag show memory summary
+
+11/21 00:23:27: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511236 KiB
+Available system memory:       8899880 KiB
+All Available memory:          9888586 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:31:19.553732 RAW Data:diag show memory summary
+
+11/21 00:29:52: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510228 KiB
+Available system memory:       8898908 KiB
+All Available memory:          9888011 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:36:25.821343 RAW Data:diag show memory summary
+
+11/21 00:34:59: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508968 KiB
+Available system memory:       8897664 KiB
+All Available memory:          9886847 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:42:20.047354 RAW Data:diag show memory summary
+
+11/21 00:40:53: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8507960 KiB
+Available system memory:       8896740 KiB
+All Available memory:          9884476 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:48:15.741456 RAW Data:diag show memory summary
+
+11/21 00:46:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514772 KiB
+Available system memory:       8903604 KiB
+All Available memory:          9892786 KiB
+Total allocated to SonicOS:    4728604 KiB
+Peak allocated to SonicOS:     4728604 KiB
+
+
+admin@18C241760433> 2025-11-20 08:53:38.242445 RAW Data:diag show memory summary
+
+11/21 00:52:11: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513512 KiB
+Available system memory:       8902452 KiB
+All Available memory:          9891572 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 08:59:32.213342 RAW Data:diag show memory summary
+
+11/21 00:58:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512252 KiB
+Available system memory:       8901336 KiB
+All Available memory:          9889372 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:05:29.247722 RAW Data:diag show memory summary
+
+11/21 01:04:02: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510488 KiB
+Available system memory:       8899544 KiB
+All Available memory:          9887552 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:11:25.486968 RAW Data:diag show memory summary
+
+11/21 01:09:58: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509228 KiB
+Available system memory:       8898348 KiB
+All Available memory:          9886183 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:17:20.626455 RAW Data:diag show memory summary
+
+11/21 01:15:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8507968 KiB
+Available system memory:       8897244 KiB
+All Available memory:          9886370 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:23:15.635505 RAW Data:diag show memory summary
+
+11/21 01:21:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8514528 KiB
+Available system memory:       8903836 KiB
+All Available memory:          9892561 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:29:10.619615 RAW Data:diag show memory summary
+
+11/21 01:27:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8512764 KiB
+Available system memory:       8902084 KiB
+All Available memory:          9889801 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:35:36.034835 RAW Data:diag show memory summary
+
+11/21 01:34:09: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511252 KiB
+Available system memory:       8900584 KiB
+All Available memory:          9889552 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:42:00.742244 RAW Data:diag show memory summary
+
+11/21 01:40:34: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509236 KiB
+Available system memory:       8898792 KiB
+All Available memory:          9887827 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:47:56.863709 RAW Data:diag show memory summary
+
+11/21 01:46:30: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508988 KiB
+Available system memory:       8898588 KiB
+All Available memory:          9886688 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 09:54:21.960629 RAW Data:diag show memory summary
+
+11/21 01:52:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8507476 KiB
+Available system memory:       8897224 KiB
+All Available memory:          9886161 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:06:10.198376 RAW Data:diag show memory summary
+
+11/21 02:04:43: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513028 KiB
+Available system memory:       8902772 KiB
+All Available memory:          9891582 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:18:00.228809 RAW Data:diag show memory summary
+
+11/21 02:16:33: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510004 KiB
+Available system memory:       8899828 KiB
+All Available memory:          9888641 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:24:25.012391 RAW Data:diag show memory summary
+
+11/21 02:22:58: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508744 KiB
+Available system memory:       8898700 KiB
+All Available memory:          9886474 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:30:50.015825 RAW Data:diag show memory summary
+
+11/21 02:29:23: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8506980 KiB
+Available system memory:       8897056 KiB
+All Available memory:          9885966 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:37:15.432137 RAW Data:diag show memory summary
+
+11/21 02:35:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8513540 KiB
+Available system memory:       8903876 KiB
+All Available memory:          9893015 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:43:10.620734 RAW Data:diag show memory summary
+
+11/21 02:41:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511524 KiB
+Available system memory:       8901788 KiB
+All Available memory:          9889626 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:49:02.956795 RAW Data:diag show memory summary
+
+11/21 02:47:36: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510264 KiB
+Available system memory:       8900708 KiB
+All Available memory:          9888690 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 10:55:29.898084 RAW Data:diag show memory summary
+
+11/21 02:54:03: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508752 KiB
+Available system memory:       8899140 KiB
+All Available memory:          9886876 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:07:02.743986 RAW Data:diag show memory summary
+
+11/21 03:05:36: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8506516 KiB
+Available system memory:       8896932 KiB
+All Available memory:          9884771 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:12:56.878019 RAW Data:diag show memory summary
+
+11/21 03:11:30: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505508 KiB
+Available system memory:       8896224 KiB
+All Available memory:          9883897 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:18:20.166182 RAW Data:diag show memory summary
+
+11/21 03:16:53: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511816 KiB
+Available system memory:       8902356 KiB
+All Available memory:          9890342 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:24:12.910747 RAW Data:diag show memory summary
+
+11/21 03:22:46: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510556 KiB
+Available system memory:       8901256 KiB
+All Available memory:          9890435 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:30:07.200140 RAW Data:diag show memory summary
+
+11/21 03:28:40: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509296 KiB
+Available system memory:       8900140 KiB
+All Available memory:          9888140 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:47:47.043952 RAW Data:diag show memory summary
+
+11/21 03:46:20: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505016 KiB
+Available system memory:       8895924 KiB
+All Available memory:          9883588 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:53:41.694208 RAW Data:diag show memory summary
+
+11/21 03:52:15: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511576 KiB
+Available system memory:       8902684 KiB
+All Available memory:          9891809 KiB
+Total allocated to SonicOS:    4728612 KiB
+Peak allocated to SonicOS:     4728612 KiB
+
+
+admin@18C241760433> 2025-11-20 11:59:03.889114 RAW Data:diag show memory summary
+
+11/21 03:57:37: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510568 KiB
+Available system memory:       8901860 KiB
+All Available memory:          9889608 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 12:05:29.377547 RAW Data:diag show memory summary
+
+11/21 04:04:03: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508804 KiB
+Available system memory:       8900084 KiB
+All Available memory:          9889015 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 12:16:12.410830 RAW Data:diag show memory summary
+
+11/21 04:14:46: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505808 KiB
+Available system memory:       8897256 KiB
+All Available memory:          9886008 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 12:22:36.775324 RAW Data:diag show memory summary
+
+11/21 04:21:10: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504296 KiB
+Available system memory:       8895864 KiB
+All Available memory:          9884606 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 12:28:31.544675 RAW Data:diag show memory summary
+
+11/21 04:27:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510856 KiB
+Available system memory:       8902580 KiB
+All Available memory:          9891301 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 12:34:56.375447 RAW Data:diag show memory summary
+
+11/21 04:33:30: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509092 KiB
+Available system memory:       8900892 KiB
+All Available memory:          9889984 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 12:40:51.359783 RAW Data:diag show memory summary
+
+11/21 04:39:25: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8507328 KiB
+Available system memory:       8899180 KiB
+All Available memory:          9888127 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 12:58:10.283711 RAW Data:diag show memory summary
+
+11/21 04:56:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504364 KiB
+Available system memory:       8896524 KiB
+All Available memory:          9885240 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:04:34.848617 RAW Data:diag show memory summary
+
+11/21 05:03:08: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8511176 KiB
+Available system memory:       8903416 KiB
+All Available memory:          9892376 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:09:59.614044 RAW Data:diag show memory summary
+
+11/21 05:08:33: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509412 KiB
+Available system memory:       8901716 KiB
+All Available memory:          9890646 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:15:24.300639 RAW Data:diag show memory summary
+
+11/21 05:13:58: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508152 KiB
+Available system memory:       8900444 KiB
+All Available memory:          9889525 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:21:08.820886 RAW Data:diag show memory summary
+
+11/21 05:19:42: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8506892 KiB
+Available system memory:       8899272 KiB
+All Available memory:          9887893 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:27:02.887266 RAW Data:diag show memory summary
+
+11/21 05:25:36: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505380 KiB
+Available system memory:       8897824 KiB
+All Available memory:          9886904 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:32:55.150015 RAW Data:diag show memory summary
+
+11/21 05:31:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504120 KiB
+Available system memory:       8896720 KiB
+All Available memory:          9884466 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:38:49.089253 RAW Data:diag show memory summary
+
+11/21 05:37:23: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8510428 KiB
+Available system memory:       8903052 KiB
+All Available memory:          9891710 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:44:42.096961 RAW Data:diag show memory summary
+
+11/21 05:43:16: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508664 KiB
+Available system memory:       8901336 KiB
+All Available memory:          9889258 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 13:55:42.550980 RAW Data:diag show memory summary
+
+11/21 05:54:16: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8506904 KiB
+Available system memory:       8899668 KiB
+All Available memory:          9887764 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 14:01:04.596645 RAW Data:diag show memory summary
+
+11/21 05:59:38: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505644 KiB
+Available system memory:       8898576 KiB
+All Available memory:          9887333 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 14:13:21.763256 RAW Data:diag show memory summary
+
+11/21 06:11:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502872 KiB
+Available system memory:       8895896 KiB
+All Available memory:          9884524 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 14:19:16.546619 RAW Data:diag show memory summary
+
+11/21 06:17:50: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8509432 KiB
+Available system memory:       8902432 KiB
+All Available memory:          9891049 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 14:25:41.836906 RAW Data:diag show memory summary
+
+11/21 06:24:15: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8508172 KiB
+Available system memory:       8901356 KiB
+All Available memory:          9889433 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 14:32:42.870994 RAW Data:diag show memory summary
+
+11/21 06:31:18: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505428 KiB
+Available system memory:       8898760 KiB
+All Available memory:          9649768 KiB
+Total allocated to SonicOS:    4728616 KiB
+Peak allocated to SonicOS:     4728616 KiB
+
+
+admin@18C241760433> 2025-11-20 14:38:38.248910 RAW Data:diag show memory summary
+
+11/21 06:37:12: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504256 KiB
+Available system memory:       8897604 KiB
+All Available memory:          9877619 KiB
+Total allocated to SonicOS:    4728728 KiB
+Peak allocated to SonicOS:     4728728 KiB
+
+
+admin@18C241760433> 2025-11-20 14:44:31.060721 RAW Data:diag show memory summary
+
+11/21 06:43:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502996 KiB
+Available system memory:       8896436 KiB
+All Available memory:          9875546 KiB
+Total allocated to SonicOS:    4728728 KiB
+Peak allocated to SonicOS:     4728728 KiB
+
+
+admin@18C241760433> 2025-11-20 14:50:55.997139 RAW Data:diag show memory summary
+
+11/21 06:49:30: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500980 KiB
+Available system memory:       8894604 KiB
+All Available memory:          9874516 KiB
+Total allocated to SonicOS:    4728728 KiB
+Peak allocated to SonicOS:     4728728 KiB
+
+
+admin@18C241760433> 2025-11-20 14:56:19.848639 RAW Data:diag show memory summary
+
+11/21 06:54:53: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501236 KiB
+Available system memory:       8894848 KiB
+All Available memory:          9873612 KiB
+Total allocated to SonicOS:    4728728 KiB
+Peak allocated to SonicOS:     4728728 KiB
+
+
+admin@18C241760433> 2025-11-20 15:01:57.029713 RAW Data:diag show memory summary
+
+11/21 07:00:31: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501012 KiB
+Available system memory:       8894712 KiB
+All Available memory:          9874513 KiB
+Total allocated to SonicOS:    4728728 KiB
+Peak allocated to SonicOS:     4728728 KiB
+
+
+admin@18C241760433> 2025-11-20 15:08:21.389522 RAW Data:diag show memory summary
+
+11/21 07:06:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502020 KiB
+Available system memory:       8895868 KiB
+All Available memory:          9874510 KiB
+Total allocated to SonicOS:    4728736 KiB
+Peak allocated to SonicOS:     4728736 KiB
+
+
+admin@18C241760433> 2025-11-20 15:19:11.437744 RAW Data:diag show memory summary
+
+11/21 07:17:45: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8503532 KiB
+Available system memory:       8897416 KiB
+All Available memory:          9876236 KiB
+Total allocated to SonicOS:    4728736 KiB
+Peak allocated to SonicOS:     4728736 KiB
+
+
+admin@18C241760433> 2025-11-20 15:29:59.741930 RAW Data:diag show memory summary
+
+11/21 07:28:33: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501516 KiB
+Available system memory:       8895604 KiB
+All Available memory:          9874242 KiB
+Total allocated to SonicOS:    4728736 KiB
+Peak allocated to SonicOS:     4728736 KiB
+
+
+admin@18C241760433> 2025-11-20 15:43:45.232073 RAW Data:diag show memory summary
+
+11/21 07:42:19: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499580 KiB
+Available system memory:       8893876 KiB
+All Available memory:          9862982 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 15:50:10.083936 RAW Data:diag show memory summary
+
+11/21 07:48:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499328 KiB
+Available system memory:       8893688 KiB
+All Available memory:          9863755 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 15:56:34.687754 RAW Data:diag show memory summary
+
+11/21 07:55:08: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500336 KiB
+Available system memory:       8894616 KiB
+All Available memory:          9862301 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 16:03:01.133625 RAW Data:diag show memory summary
+
+11/21 08:01:35: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499360 KiB
+Available system memory:       8893680 KiB
+All Available memory:          9861420 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 16:08:55.190666 RAW Data:diag show memory summary
+
+11/21 08:07:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501908 KiB
+Available system memory:       8896416 KiB
+All Available memory:          9866185 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 16:13:49.488352 RAW Data:diag show memory summary
+
+11/21 08:12:23: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501152 KiB
+Available system memory:       8895624 KiB
+All Available memory:          9865921 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 16:20:13.382274 RAW Data:diag show memory summary
+
+11/21 08:18:47: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499136 KiB
+Available system memory:       8893760 KiB
+All Available memory:          9862498 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 16:26:37.898473 RAW Data:diag show memory summary
+
+11/21 08:25:12: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505952 KiB
+Available system memory:       8900636 KiB
+All Available memory:          9870925 KiB
+Total allocated to SonicOS:    4729708 KiB
+Peak allocated to SonicOS:     4729708 KiB
+
+
+admin@18C241760433> 2025-11-20 16:44:19.983054 RAW Data:diag show memory summary
+
+11/21 08:42:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502424 KiB
+Available system memory:       8897380 KiB
+All Available memory:          9867284 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 16:50:44.671469 RAW Data:diag show memory summary
+
+11/21 08:49:19: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500912 KiB
+Available system memory:       8895772 KiB
+All Available memory:          9866180 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:02:04.100796 RAW Data:diag show memory summary
+
+11/21 09:00:38: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498644 KiB
+Available system memory:       8893652 KiB
+All Available memory:          9862252 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:08:28.397754 RAW Data:diag show memory summary
+
+11/21 09:07:02: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505456 KiB
+Available system memory:       8900512 KiB
+All Available memory:          9869022 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:14:52.360022 RAW Data:diag show memory summary
+
+11/21 09:13:26: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504448 KiB
+Available system memory:       8899652 KiB
+All Available memory:          9870096 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:21:16.833772 RAW Data:diag show memory summary
+
+11/21 09:19:51: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8503188 KiB
+Available system memory:       8898440 KiB
+All Available memory:          9867233 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:25:44.307324 RAW Data:diag show memory summary
+
+11/21 09:24:18: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501928 KiB
+Available system memory:       8897368 KiB
+All Available memory:          9865673 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 17:31:39.337917 RAW Data:diag show memory summary
+
+11/21 09:30:13: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500920 KiB
+Available system memory:       8896400 KiB
+All Available memory:          9866469 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:38:04.063738 RAW Data:diag show memory summary
+
+11/21 09:36:38: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499156 KiB
+Available system memory:       8894592 KiB
+All Available memory:          9864375 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:43:40.613628 RAW Data:diag show memory summary
+
+11/21 09:42:15: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8505716 KiB
+Available system memory:       8901428 KiB
+All Available memory:          9870268 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:50:10.502096 RAW Data:diag show memory summary
+
+11/21 09:48:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504708 KiB
+Available system memory:       8900424 KiB
+All Available memory:          9869451 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 17:55:25.049602 RAW Data:diag show memory summary
+
+11/21 09:53:59: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8503448 KiB
+Available system memory:       8899120 KiB
+All Available memory:          9869550 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 18:00:19.274035 RAW Data:diag show memory summary
+
+11/21 09:58:53: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502440 KiB
+Available system memory:       8898156 KiB
+All Available memory:          9866795 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 18:06:13.317402 RAW Data:diag show memory summary
+
+11/21 10:04:47: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500424 KiB
+Available system memory:       8896228 KiB
+All Available memory:          9865486 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 18:12:08.315771 RAW Data:diag show memory summary
+
+11/21 10:10:42: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500172 KiB
+Available system memory:       8896176 KiB
+All Available memory:          9864800 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 18:18:01.392700 RAW Data:diag show memory summary
+
+11/21 10:16:35: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498912 KiB
+Available system memory:       8895028 KiB
+All Available memory:          9863774 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 18:29:17.517913 RAW Data:diag show memory summary
+
+11/21 10:27:52: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504212 KiB
+Available system memory:       8900384 KiB
+All Available memory:          9869076 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 18:35:42.736500 RAW Data:diag show memory summary
+
+11/21 10:34:17: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502700 KiB
+Available system memory:       8899016 KiB
+All Available memory:          9867848 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 18:46:13.080257 RAW Data:diag show memory summary
+
+11/21 10:44:47: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500432 KiB
+Available system memory:       8896964 KiB
+All Available memory:          9865630 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 19:03:54.627684 RAW Data:diag show memory summary
+
+11/21 11:02:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8504220 KiB
+Available system memory:       8900824 KiB
+All Available memory:          9869373 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 19:09:41.871972 RAW Data:diag show memory summary
+
+11/21 11:08:16: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502708 KiB
+Available system memory:       8899408 KiB
+All Available memory:          9868436 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 19:15:36.971303 RAW Data:diag show memory summary
+
+11/21 11:14:11: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501952 KiB
+Available system memory:       8898804 KiB
+All Available memory:          9867683 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 19:21:31.707201 RAW Data:diag show memory summary
+
+11/21 11:20:06: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500440 KiB
+Available system memory:       8897404 KiB
+All Available memory:          9866129 KiB
+Total allocated to SonicOS:    4729712 KiB
+Peak allocated to SonicOS:     4729712 KiB
+
+
+admin@18C241760433> 2025-11-20 19:33:53.162863 RAW Data:diag show memory summary
+
+11/21 11:32:27: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497416 KiB
+Available system memory:       8894464 KiB
+All Available memory:          9863047 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 19:40:19.636544 RAW Data:diag show memory summary
+
+11/21 11:38:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8503724 KiB
+Available system memory:       8900840 KiB
+All Available memory:          9870805 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 19:46:44.371592 RAW Data:diag show memory summary
+
+11/21 11:45:19: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502968 KiB
+Available system memory:       8900204 KiB
+All Available memory:          9870069 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 19:52:39.372996 RAW Data:diag show memory summary
+
+11/21 11:51:14: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501960 KiB
+Available system memory:       8899168 KiB
+All Available memory:          9869568 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 19:59:06.980273 RAW Data:diag show memory summary
+
+11/21 11:57:41: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500700 KiB
+Available system memory:       8897876 KiB
+All Available memory:          9867768 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:05:34.895199 RAW Data:diag show memory summary
+
+11/21 12:04:09: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499692 KiB
+Available system memory:       8896892 KiB
+All Available memory:          9866812 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:11:30.118002 RAW Data:diag show memory summary
+
+11/21 12:10:04: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498432 KiB
+Available system memory:       8895864 KiB
+All Available memory:          9864498 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:17:55.244327 RAW Data:diag show memory summary
+
+11/21 12:16:30: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498184 KiB
+Available system memory:       8895572 KiB
+All Available memory:          9865725 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:23:48.376631 RAW Data:diag show memory summary
+
+11/21 12:22:23: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497428 KiB
+Available system memory:       8894900 KiB
+All Available memory:          9863470 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:29:08.784210 RAW Data:diag show memory summary
+
+11/21 12:27:43: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496672 KiB
+Available system memory:       8894096 KiB
+All Available memory:          9862915 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:35:35.130311 RAW Data:diag show memory summary
+
+11/21 12:34:09: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8503736 KiB
+Available system memory:       8901248 KiB
+All Available memory:          9870596 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:41:19.595892 RAW Data:diag show memory summary
+
+11/21 12:39:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502224 KiB
+Available system memory:       8899796 KiB
+All Available memory:          9868508 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:47:44.452580 RAW Data:diag show memory summary
+
+11/21 12:46:19: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501216 KiB
+Available system memory:       8898744 KiB
+All Available memory:          9868677 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 20:54:08.678522 RAW Data:diag show memory summary
+
+11/21 12:52:43: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499956 KiB
+Available system memory:       8897652 KiB
+All Available memory:          9867694 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:00:00.720841 RAW Data:diag show memory summary
+
+11/21 12:58:35: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498948 KiB
+Available system memory:       8896604 KiB
+All Available memory:          9865135 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:12:19.655872 RAW Data:diag show memory summary
+
+11/21 13:10:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495956 KiB
+Available system memory:       8893628 KiB
+All Available memory:          9864002 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:18:11.970823 RAW Data:diag show memory summary
+
+11/21 13:16:46: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502768 KiB
+Available system memory:       8900624 KiB
+All Available memory:          9870649 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:24:36.278496 RAW Data:diag show memory summary
+
+11/21 13:23:11: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502012 KiB
+Available system memory:       8899804 KiB
+All Available memory:          9868552 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:29:58.523777 RAW Data:diag show memory summary
+
+11/21 13:28:33: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501004 KiB
+Available system memory:       8898888 KiB
+All Available memory:          9868771 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:36:25.099179 RAW Data:diag show memory summary
+
+11/21 13:35:00: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500500 KiB
+Available system memory:       8898308 KiB
+All Available memory:          9868637 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:42:49.549613 RAW Data:diag show memory summary
+
+11/21 13:41:24: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498736 KiB
+Available system memory:       8896636 KiB
+All Available memory:          9865460 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:49:14.905351 RAW Data:diag show memory summary
+
+11/21 13:47:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497476 KiB
+Available system memory:       8895488 KiB
+All Available memory:          9865622 KiB
+Total allocated to SonicOS:    4729716 KiB
+Peak allocated to SonicOS:     4729716 KiB
+
+
+admin@18C241760433> 2025-11-20 21:55:07.096340 RAW Data:diag show memory summary
+
+11/21 13:53:42: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496216 KiB
+Available system memory:       8894292 KiB
+All Available memory:          9862813 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:00:30.855930 RAW Data:diag show memory summary
+
+11/21 13:59:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8502776 KiB
+Available system memory:       8901044 KiB
+All Available memory:          9869750 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:06:26.449978 RAW Data:diag show memory summary
+
+11/21 14:05:01: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501516 KiB
+Available system memory:       8899688 KiB
+All Available memory:          9869290 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:11:04.262189 RAW Data:diag show memory summary
+
+11/21 14:09:39: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500508 KiB
+Available system memory:       8898936 KiB
+All Available memory:          9869315 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:23:24.139090 RAW Data:diag show memory summary
+
+11/21 14:21:59: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497232 KiB
+Available system memory:       8895632 KiB
+All Available memory:          9865617 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:29:16.923982 RAW Data:diag show memory summary
+
+11/21 14:27:51: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496476 KiB
+Available system memory:       8895072 KiB
+All Available memory:          9863952 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:46:19.989678 RAW Data:diag show memory summary
+
+11/21 14:44:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500516 KiB
+Available system memory:       8899196 KiB
+All Available memory:          9867626 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:51:10.395255 RAW Data:diag show memory summary
+
+11/21 14:49:45: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499508 KiB
+Available system memory:       8898232 KiB
+All Available memory:          9866787 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 22:56:17.083448 RAW Data:diag show memory summary
+
+11/21 14:54:52: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498752 KiB
+Available system memory:       8897448 KiB
+All Available memory:          9867498 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 23:02:41.932263 RAW Data:diag show memory summary
+
+11/21 15:01:17: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496988 KiB
+Available system memory:       8895700 KiB
+All Available memory:          9866039 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 23:08:35.005402 RAW Data:diag show memory summary
+
+11/21 15:07:10: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495980 KiB
+Available system memory:       8894816 KiB
+All Available memory:          9864672 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 23:19:04.261840 RAW Data:diag show memory summary
+
+11/21 15:17:39: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501028 KiB
+Available system memory:       8900148 KiB
+All Available memory:          9870490 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 23:24:41.525412 RAW Data:diag show memory summary
+
+11/21 15:23:16: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499516 KiB
+Available system memory:       8898580 KiB
+All Available memory:          9868111 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 23:30:38.724462 RAW Data:diag show memory summary
+
+11/21 15:29:13: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499012 KiB
+Available system memory:       8898128 KiB
+All Available memory:          9867432 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 23:41:56.273192 RAW Data:diag show memory summary
+
+11/21 15:40:31: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496492 KiB
+Available system memory:       8895736 KiB
+All Available memory:          9866080 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-20 23:47:52.040795 RAW Data:diag show memory summary
+
+11/21 15:46:27: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8494476 KiB
+Available system memory:       8893848 KiB
+All Available memory:          9863727 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-21 00:05:00.470902 RAW Data:diag show memory summary
+
+11/21 16:03:35: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498516 KiB
+Available system memory:       8898040 KiB
+All Available memory:          9866545 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-21 00:22:12.759821 RAW Data:diag show memory summary
+
+11/21 16:20:48: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500440 KiB
+Available system memory:       8900308 KiB
+All Available memory:          9870283 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-21 00:27:37.169920 RAW Data:diag show memory summary
+
+11/21 16:26:12: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500188 KiB
+Available system memory:       8900124 KiB
+All Available memory:          9868657 KiB
+Total allocated to SonicOS:    4729720 KiB
+Peak allocated to SonicOS:     4729720 KiB
+
+
+admin@18C241760433> 2025-11-21 00:33:31.141812 RAW Data:diag show memory summary
+
+11/21 16:32:06: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498928 KiB
+Available system memory:       8898912 KiB
+All Available memory:          9867319 KiB
+Total allocated to SonicOS:    4729724 KiB
+Peak allocated to SonicOS:     4729724 KiB
+
+
+admin@18C241760433> 2025-11-21 00:39:55.947477 RAW Data:diag show memory summary
+
+11/21 16:38:31: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497668 KiB
+Available system memory:       8897708 KiB
+All Available memory:          9866510 KiB
+Total allocated to SonicOS:    4729724 KiB
+Peak allocated to SonicOS:     4729724 KiB
+
+
+admin@18C241760433> 2025-11-21 00:45:18.399038 RAW Data:diag show memory summary
+
+11/21 16:43:53: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496408 KiB
+Available system memory:       8896656 KiB
+All Available memory:          9866960 KiB
+Total allocated to SonicOS:    4729724 KiB
+Peak allocated to SonicOS:     4729724 KiB
+
+
+admin@18C241760433> 2025-11-21 00:51:10.573941 RAW Data:diag show memory summary
+
+11/21 16:49:45: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8494644 KiB
+Available system memory:       8894808 KiB
+All Available memory:          9863592 KiB
+Total allocated to SonicOS:    4729724 KiB
+Peak allocated to SonicOS:     4729724 KiB
+
+
+admin@18C241760433> 2025-11-21 00:57:05.798953 RAW Data:diag show memory summary
+
+11/21 16:55:41: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501204 KiB
+Available system memory:       8901344 KiB
+All Available memory:          9871209 KiB
+Total allocated to SonicOS:    4729724 KiB
+Peak allocated to SonicOS:     4729724 KiB
+
+
+admin@18C241760433> 2025-11-21 01:03:30.871051 RAW Data:diag show memory summary
+
+11/21 17:02:06: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499944 KiB
+Available system memory:       8900216 KiB
+All Available memory:          9870035 KiB
+Total allocated to SonicOS:    4729728 KiB
+Peak allocated to SonicOS:     4729728 KiB
+
+
+admin@18C241760433> 2025-11-21 01:25:49.892751 RAW Data:diag show memory summary
+
+11/21 17:24:25: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495156 KiB
+Available system memory:       8895776 KiB
+All Available memory:          9864277 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 01:38:09.215101 RAW Data:diag show memory summary
+
+11/21 17:36:44: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500708 KiB
+Available system memory:       8901364 KiB
+All Available memory:          9871201 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 01:43:32.174927 RAW Data:diag show memory summary
+
+11/21 17:42:07: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499448 KiB
+Available system memory:       8900232 KiB
+All Available memory:          9869097 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 01:48:54.943762 RAW Data:diag show memory summary
+
+11/21 17:47:30: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498440 KiB
+Available system memory:       8899208 KiB
+All Available memory:          9867914 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 01:55:20.993609 RAW Data:diag show memory summary
+
+11/21 17:53:56: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496676 KiB
+Available system memory:       8897500 KiB
+All Available memory:          9867687 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:01:47.064308 RAW Data:diag show memory summary
+
+11/21 18:00:22: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495164 KiB
+Available system memory:       8895976 KiB
+All Available memory:          9865898 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:07:12.296980 RAW Data:diag show memory summary
+
+11/21 18:05:47: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501724 KiB
+Available system memory:       8902660 KiB
+All Available memory:          9871212 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:13:03.974794 RAW Data:diag show memory summary
+
+11/21 18:11:39: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500464 KiB
+Available system memory:       8901472 KiB
+All Available memory:          9869922 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:18:59.033748 RAW Data:diag show memory summary
+
+11/21 18:17:34: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499456 KiB
+Available system memory:       8900480 KiB
+All Available memory:          9869179 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:24:53.842505 RAW Data:diag show memory summary
+
+11/21 18:23:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498196 KiB
+Available system memory:       8899248 KiB
+All Available memory:          9867682 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:30:49.624419 RAW Data:diag show memory summary
+
+11/21 18:29:25: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497216 KiB
+Available system memory:       8898452 KiB
+All Available memory:          9868385 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:36:14.468221 RAW Data:diag show memory summary
+
+11/21 18:34:50: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495956 KiB
+Available system memory:       8897132 KiB
+All Available memory:          9865730 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:42:06.723509 RAW Data:diag show memory summary
+
+11/21 18:40:42: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495200 KiB
+Available system memory:       8896468 KiB
+All Available memory:          9864927 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:47:31.274432 RAW Data:diag show memory summary
+
+11/21 18:46:06: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501760 KiB
+Available system memory:       8903048 KiB
+All Available memory:          9873101 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:53:26.484569 RAW Data:diag show memory summary
+
+11/21 18:52:02: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500500 KiB
+Available system memory:       8901880 KiB
+All Available memory:          9870446 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 02:58:42.343168 RAW Data:diag show memory summary
+
+11/21 18:57:17: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499240 KiB
+Available system memory:       8900752 KiB
+All Available memory:          9870498 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:04:02.644008 RAW Data:diag show memory summary
+
+11/21 19:02:38: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497980 KiB
+Available system memory:       8899504 KiB
+All Available memory:          9869325 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:15:49.414120 RAW Data:diag show memory summary
+
+11/21 19:14:25: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495712 KiB
+Available system memory:       8897332 KiB
+All Available memory:          9866074 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:22:15.128203 RAW Data:diag show memory summary
+
+11/21 19:20:50: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8493948 KiB
+Available system memory:       8895668 KiB
+All Available memory:          9865681 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:28:09.428195 RAW Data:diag show memory summary
+
+11/21 19:26:45: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500508 KiB
+Available system memory:       8902292 KiB
+All Available memory:          9872241 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:33:02.249976 RAW Data:diag show memory summary
+
+11/21 19:31:37: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500004 KiB
+Available system memory:       8901820 KiB
+All Available memory:          9871012 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:39:26.768941 RAW Data:diag show memory summary
+
+11/21 19:38:02: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498996 KiB
+Available system memory:       8900968 KiB
+All Available memory:          9870853 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:45:21.748789 RAW Data:diag show memory summary
+
+11/21 19:43:57: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497484 KiB
+Available system memory:       8899564 KiB
+All Available memory:          9868323 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 03:51:16.764779 RAW Data:diag show memory summary
+
+11/21 19:49:52: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496224 KiB
+Available system memory:       8898188 KiB
+All Available memory:          9868004 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:00:12.939369 RAW Data:diag show memory summary
+
+11/21 19:58:48: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8494208 KiB
+Available system memory:       8896364 KiB
+All Available memory:          9864737 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:06:36.979426 RAW Data:diag show memory summary
+
+11/21 20:05:12: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8500768 KiB
+Available system memory:       8902860 KiB
+All Available memory:          9872627 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:12:29.950121 RAW Data:diag show memory summary
+
+11/21 20:11:05: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8499508 KiB
+Available system memory:       8901776 KiB
+All Available memory:          9870354 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:18:55.457512 RAW Data:diag show memory summary
+
+11/21 20:17:31: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8498248 KiB
+Available system memory:       8900616 KiB
+All Available memory:          9870869 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:24:50.058770 RAW Data:diag show memory summary
+
+11/21 20:23:25: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496736 KiB
+Available system memory:       8899256 KiB
+All Available memory:          9869507 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:31:15.971390 RAW Data:diag show memory summary
+
+11/21 20:29:51: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8495476 KiB
+Available system memory:       8897908 KiB
+All Available memory:          9867673 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:36:39.241513 RAW Data:diag show memory summary
+
+11/21 20:35:15: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8494972 KiB
+Available system memory:       8897540 KiB
+All Available memory:          9866091 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:41:59.828247 RAW Data:diag show memory summary
+
+11/21 20:40:35: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8501532 KiB
+Available system memory:       8904108 KiB
+All Available memory:          9872818 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 04:58:25.455020 RAW Data:diag show memory summary
+
+11/21 20:57:01: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8497752 KiB
+Available system memory:       8900568 KiB
+All Available memory:          9868995 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 05:04:23.661919 RAW Data:diag show memory summary
+
+11/21 21:02:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8496240 KiB
+Available system memory:       8899144 KiB
+All Available memory:          9867643 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-21 05:10:18.634954 RAW Data:diag show memory summary
+
+11/21 21:08:50: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8494980 KiB
+Available system memory:       8897932 KiB
+All Available memory:          9866817 KiB
+Total allocated to SonicOS:    4729736 KiB
+Peak allocated to SonicOS:     4729736 KiB
+
+
+admin@18C241760433> 2025-11-24 01:14:21.561949 RAW Data:diag show memory summary
+
+11/24 17:12:54: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8462948 KiB
+Available system memory:       8879944 KiB
+All Available memory:          9806202 KiB
+Total allocated to SonicOS:    4749188 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 01:26:10.336276 RAW Data:diag show memory summary
+
+11/24 17:24:43: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8459524 KiB
+Available system memory:       8876472 KiB
+All Available memory:          9803141 KiB
+Total allocated to SonicOS:    4749188 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 01:32:34.742543 RAW Data:diag show memory summary
+
+11/24 17:31:07: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8457692 KiB
+Available system memory:       8874672 KiB
+All Available memory:          9801430 KiB
+Total allocated to SonicOS:    4749200 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 01:44:51.879132 RAW Data:diag show memory summary
+
+11/24 17:43:24: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455524 KiB
+Available system memory:       8872664 KiB
+All Available memory:          9799455 KiB
+Total allocated to SonicOS:    4749208 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 01:51:16.924372 RAW Data:diag show memory summary
+
+11/24 17:49:49: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8461864 KiB
+Available system memory:       8879132 KiB
+All Available memory:          9805873 KiB
+Total allocated to SonicOS:    4749208 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 01:57:09.281596 RAW Data:diag show memory summary
+
+11/24 17:55:42: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8460896 KiB
+Available system memory:       8877988 KiB
+All Available memory:          9804967 KiB
+Total allocated to SonicOS:    4749208 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:02:41.139069 RAW Data:diag show memory summary
+
+11/24 18:01:14: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8459228 KiB
+Available system memory:       8876492 KiB
+All Available memory:          9683925 KiB
+Total allocated to SonicOS:    4749208 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:11:04.621558 RAW Data:diag show memory summary
+
+11/24 18:09:37: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8457276 KiB
+Available system memory:       8874432 KiB
+All Available memory:          9595268 KiB
+Total allocated to SonicOS:    4749216 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:19:07.962898 RAW Data:diag show memory summary
+
+11/24 18:17:41: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8457024 KiB
+Available system memory:       8874136 KiB
+All Available memory:          9536146 KiB
+Total allocated to SonicOS:    4749224 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:27:03.234346 RAW Data:diag show memory summary
+
+11/24 18:25:36: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455848 KiB
+Available system memory:       8873048 KiB
+All Available memory:          9511378 KiB
+Total allocated to SonicOS:    4749228 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:35:13.001132 RAW Data:diag show memory summary
+
+11/24 18:33:46: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455916 KiB
+Available system memory:       8873120 KiB
+All Available memory:          9495270 KiB
+Total allocated to SonicOS:    4749228 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:42:58.252134 RAW Data:diag show memory summary
+
+11/24 18:41:31: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455816 KiB
+Available system memory:       8872988 KiB
+All Available memory:          9498697 KiB
+Total allocated to SonicOS:    4749228 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:50:39.557498 RAW Data:diag show memory summary
+
+11/24 18:49:14: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455480 KiB
+Available system memory:       8872672 KiB
+All Available memory:          9496253 KiB
+Total allocated to SonicOS:    4749236 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 02:58:26.783311 RAW Data:diag show memory summary
+
+11/24 18:57:00: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455492 KiB
+Available system memory:       8872700 KiB
+All Available memory:          9489634 KiB
+Total allocated to SonicOS:    4749236 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:06:14.221153 RAW Data:diag show memory summary
+
+11/24 19:04:47: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455308 KiB
+Available system memory:       8872528 KiB
+All Available memory:          9492964 KiB
+Total allocated to SonicOS:    4749280 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:13:58.276808 RAW Data:diag show memory summary
+
+11/24 19:12:32: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8454592 KiB
+Available system memory:       8871804 KiB
+All Available memory:          9487943 KiB
+Total allocated to SonicOS:    4749280 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:21:50.007526 RAW Data:diag show memory summary
+
+11/24 19:20:23: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8454900 KiB
+Available system memory:       8872120 KiB
+All Available memory:          9490833 KiB
+Total allocated to SonicOS:    4749288 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:29:34.329840 RAW Data:diag show memory summary
+
+11/24 19:28:07: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8454660 KiB
+Available system memory:       8871932 KiB
+All Available memory:          9483520 KiB
+Total allocated to SonicOS:    4749288 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:37:41.718959 RAW Data:diag show memory summary
+
+11/24 19:36:16: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8454700 KiB
+Available system memory:       8871980 KiB
+All Available memory:          9486301 KiB
+Total allocated to SonicOS:    4749288 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:45:36.727707 RAW Data:diag show memory summary
+
+11/24 19:44:10: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8453136 KiB
+Available system memory:       8870424 KiB
+All Available memory:          9487662 KiB
+Total allocated to SonicOS:    4749300 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:53:29.666504 RAW Data:diag show memory summary
+
+11/24 19:52:03: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8453156 KiB
+Available system memory:       8870452 KiB
+All Available memory:          9483520 KiB
+Total allocated to SonicOS:    4749304 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 03:59:07.945169 RAW Data:diag show memory summary
+
+11/24 19:57:41: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8454860 KiB
+Available system memory:       8872164 KiB
+All Available memory:          9791329 KiB
+Total allocated to SonicOS:    4749304 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:05:32.946198 RAW Data:diag show memory summary
+
+11/24 20:04:06: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455616 KiB
+Available system memory:       8872944 KiB
+All Available memory:          9792259 KiB
+Total allocated to SonicOS:    4749308 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:11:57.146527 RAW Data:diag show memory summary
+
+11/24 20:10:30: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8457128 KiB
+Available system memory:       8874468 KiB
+All Available memory:          9793484 KiB
+Total allocated to SonicOS:    4749308 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:18:22.005905 RAW Data:diag show memory summary
+
+11/24 20:16:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455672 KiB
+Available system memory:       8873072 KiB
+All Available memory:          9792361 KiB
+Total allocated to SonicOS:    4749308 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:30:07.331541 RAW Data:diag show memory summary
+
+11/24 20:28:40: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8457184 KiB
+Available system memory:       8874612 KiB
+All Available memory:          9793950 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:36:02.365130 RAW Data:diag show memory summary
+
+11/24 20:34:35: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8456176 KiB
+Available system memory:       8873620 KiB
+All Available memory:          9792953 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:41:27.329018 RAW Data:diag show memory summary
+
+11/24 20:40:00: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455168 KiB
+Available system memory:       8872628 KiB
+All Available memory:          9791952 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:50:39.875471 RAW Data:diag show memory summary
+
+11/24 20:49:13: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8461224 KiB
+Available system memory:       8878708 KiB
+All Available memory:          9797921 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 04:57:05.782975 RAW Data:diag show memory summary
+
+11/24 20:55:39: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8460216 KiB
+Available system memory:       8877724 KiB
+All Available memory:          9797019 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 05:03:33.674896 RAW Data:diag show memory summary
+
+11/24 21:02:03: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8459460 KiB
+Available system memory:       8876928 KiB
+All Available memory:          9796248 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 05:25:34.257835 RAW Data:diag show memory summary
+
+11/24 21:24:04: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8454924 KiB
+Available system memory:       8872592 KiB
+All Available memory:          9791818 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 05:31:59.888629 RAW Data:diag show memory summary
+
+11/24 21:30:29: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8461988 KiB
+Available system memory:       8879664 KiB
+All Available memory:          9798708 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 05:38:25.387310 RAW Data:diag show memory summary
+
+11/24 21:36:55: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8461232 KiB
+Available system memory:       8878912 KiB
+All Available memory:          9797834 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 05:44:22.526204 RAW Data:diag show memory summary
+
+11/24 21:42:52: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8460000 KiB
+Available system memory:       8877660 KiB
+All Available memory:          9796971 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 05:50:46.606013 RAW Data:diag show memory summary
+
+11/24 21:49:16: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8459244 KiB
+Available system memory:       8876912 KiB
+All Available memory:          9795860 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 05:57:11.830233 RAW Data:diag show memory summary
+
+11/24 21:55:41: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8458488 KiB
+Available system memory:       8876272 KiB
+All Available memory:          9795331 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:03:06.483655 RAW Data:diag show memory summary
+
+11/24 22:01:36: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8457228 KiB
+Available system memory:       8874868 KiB
+All Available memory:          9794107 KiB
+Total allocated to SonicOS:    4749316 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:10:17.575731 RAW Data:diag show memory summary
+
+11/24 22:08:48: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455588 KiB
+Available system memory:       8873408 KiB
+All Available memory:          9504885 KiB
+Total allocated to SonicOS:    4749320 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:18:25.871317 RAW Data:diag show memory summary
+
+11/24 22:16:56: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8450284 KiB
+Available system memory:       8868248 KiB
+All Available memory:          9410270 KiB
+Total allocated to SonicOS:    4751688 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:25:56.438282 RAW Data:diag show memory summary
+
+11/24 22:24:26: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8450244 KiB
+Available system memory:       8867904 KiB
+All Available memory:          9752369 KiB
+Total allocated to SonicOS:    4751692 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:31:50.711370 RAW Data:diag show memory summary
+
+11/24 22:30:20: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8451504 KiB
+Available system memory:       8869188 KiB
+All Available memory:          9789344 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:37:44.799006 RAW Data:diag show memory summary
+
+11/24 22:36:14: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8452260 KiB
+Available system memory:       8869928 KiB
+All Available memory:          9790086 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:44:13.256280 RAW Data:diag show memory summary
+
+11/24 22:42:43: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8450804 KiB
+Available system memory:       8868508 KiB
+All Available memory:          9788669 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 06:50:40.595176 RAW Data:diag show memory summary
+
+11/24 22:49:10: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8453828 KiB
+Available system memory:       8871512 KiB
+All Available memory:          9791610 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 07:07:18.723517 RAW Data:diag show memory summary
+
+11/24 23:05:48: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8450300 KiB
+Available system memory:       8868260 KiB
+All Available memory:          9788428 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 07:13:12.665943 RAW Data:diag show memory summary
+
+11/24 23:11:42: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8457368 KiB
+Available system memory:       8875356 KiB
+All Available memory:          9795517 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 2025-11-24 07:23:26.384957 RAW Data:diag show memory summary
+
+11/24 23:21:56: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455352 KiB
+Available system memory:       8873384 KiB
+All Available memory:          9793481 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 

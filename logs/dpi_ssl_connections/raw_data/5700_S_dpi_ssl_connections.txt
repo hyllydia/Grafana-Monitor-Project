@@ -1,0 +1,25 @@
+2025-11-25 23:14:04.414614 RAW Data:show tech-support-report dpi-ssl client
+
+--General Settings--
+Client DPI-SSL                      : Not Licensed
+Enable SSL Client Inspection        : Enabled
+  IDP                               : Enabled
+  GAV                               : Enabled
+  Anti-Spyware                      : Enabled
+  Application-Firewall              : Disabled
+  Content-Filter                    : Disabled
+Check SSL client-hello resemble stream depth: 512
+SSL proxied connection count        : 0/0/350000 (cur/highwater/max)
+SSL excluded connection count (cur/highwater): 0/0
+SSL no proxied info                 : 0/0/0 (noProxySession/noProxyPacket/lowMemoryDropPacket)
+Handshakes - FW-Client: Initiated:0 Completed:0 - FW-Server: Initiated:0 Completed:0 
+
+Connection nonce:1 
+SSL memory usage - request:0 free:0 
+SSL TCP alloc usage - request:0 free:0 
+DPI-SSL app memory usage - request:82 free:76 
+AvailInBytesCoarse:2771918848B AvailBytes:2771918848B lowThreshold:493249658B highThreshold:822082764B 
+HighThreshold pkt count :0 MemTrimCount:0 LowMemNewSessionDropCount :0 
+Cache spoofed certificates          : Enabled
+Disable CFS Modification            : No
+--MORE--

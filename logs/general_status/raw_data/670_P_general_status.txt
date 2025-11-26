@@ -1,0 +1,25 @@
+2025-11-25 23:16:47.086013 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         TZ 670
+Product Code:                  22505
+Firewall Name:                 2CB8ED6CA98C
+Serial Number:                 2CB8ED6CAA64
+Authentication Code:           YV28-A6ZU
+Firmware Version:              SonicOS 7.3.1-7012
+ROM Version:                   7.0.1.3
+System Time:                   11/25/2025 23:16:29
+Up Time:                       16 Days 00:50:37
+Primary WAN:                   X1
+Peak Connections:              Peak: 499515
+Current Connections:           Current: 1188
+Max Allowed Connections:       Max Allowed: 500000
+Max Connections:               Max: 500000
+Connection Usage:              0.238%
+Last Modified By:              admin 10.7.13.228:X1 CLI 11/10/2025 00:07:21
+Registration Code:             KLSBBSLJ
+Global Mode:                   Yes
+--MORE--

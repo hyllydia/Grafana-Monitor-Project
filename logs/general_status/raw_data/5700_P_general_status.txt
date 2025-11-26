@@ -1,0 +1,25 @@
+2025-11-25 23:14:09.597382 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         NSa 5700
+Product Code:                  23005
+Firewall Name:                 2CB8EDA2D4C4
+Serial Number:                 2CB8EDA2D4C4
+Authentication Code:           45GG-TF9F
+Firmware Version:              SonicOS 7.3.2-7001
+ROM Version:                   1.1.1.3
+System Time:                   11/26/2025 15:14:22
+Up Time:                       8 Days 00:24:37
+Primary WAN:                   X1
+Peak Connections:              Peak: 48162
+Current Connections:           Current: 1200
+Max Allowed Connections:       Max Allowed: 3500000
+Max Connections:               Max: 3500000
+Connection Usage:              0.034%
+Last Modified By:              Unmodified since reboot
+Registration Code:             VT75F4TG
+Global Mode:                   Yes
+--MORE--

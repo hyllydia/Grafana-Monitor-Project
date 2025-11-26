@@ -1,0 +1,25 @@
+2025-11-25 23:14:24.830707 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         TZ 680
+Product Code:                  25005
+Firewall Name:                 18c241a14070
+Serial Number:                 18C241A140D4
+Authentication Code:           4XTD-MJ68
+Firmware Version:              SonicOS 8.1.0-8017
+ROM Version:                   7.1.0.14
+CPUs:                          0.60% - 4 Cores
+System Time:                   UTC 11/26/2025 07:14:07
+Up Time:                       8 Days 04:15:25
+Primary WAN:                   X1
+Peak Connections:              Peak: 332245
+Current Connections:           Current: 10468
+Max Allowed Connections:       Max Allowed: 480000
+Max Connections:               Max: 480000
+Connection Usage:              2.181%
+Last Modified By:              admin 10.7.13.136:X1 CLI UTC 11/25/2025 18:15:41
+Registration Code:             MWBZ7S9D
+--MORE--

@@ -1,0 +1,62 @@
+2025-11-25 23:15:39.569488 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         NSa 3800
+Product Code:                  24605
+Firewall Name:                 18C241760433
+Serial Number:                 18C2419BE9FA
+Authentication Code:           GKU4-QWE6
+Firmware Version:              SonicOS 8.1.0-8017
+ROM Version:                   1.0.1.0
+CPUs:                          0.21% - 8 Cores
+System Time:                   11/26/2025 15:15:07
+Up Time:                       0 Days 23:37:56
+Primary WAN:                   X24
+Peak Connections:              Peak: 3061
+Current Connections:           Current: 270
+Max Allowed Connections:       Max Allowed: 1200000
+Max Connections:               Max: 1200000
+Connection Usage:              0.022%
+Last Modified By:              Unmodified since reboot
+Registration Code:             NHEN34JC
+Global Mode:                   Yes
+Restart Required:              No
+
+==================
+Security Services:
+==================
+
+Nodes/Users:                   Licensed - Unlimited Nodes
+SSL VPN Nodes/Users:           Licensed - 2 Nodes(0 in use)
+Virtual Assist Nodes/Users:    Licensed - 1 Nodes(0 in use)
+VPN:                           Licensed
+Global VPN Client:             Licensed - 50 Licenses(0 in use)
+CFS(Content Filter):           Licensed
+Expanded feature set:          Not Licensed
+Endpoint Security:             Not Licensed
+Gateway Anti-Virus:            Licensed
+Capture ATP:                   Not Licensed
+Anti-Spyware:                  Licensed
+Intrusion Prevention:          Licensed
+App Control:                   Licensed
+App Visualization:             Licensed
+Anti-Spam:                     Licensed
+Analyzer:                      Not Licensed
+DPI-SSL:                       Licensed - Client/Server
+DPI-SSH:                       Licensed
+WAN Acceleration:              Not Licensed
+WXAC Acceleration:             Not Licensed
+Botnet:                        Licensed
+DNS Filtering:                 Licensed
+
+===================
+Network Interfaces:
+===================
+
+Name             IP Address      Link Status          
+X0(LAN)          192.168.39.168  1 Gbps Full Duplex   
+X1(WAN)          10.7.5.130      1 Gbps Full Duplex   
+--MORE--

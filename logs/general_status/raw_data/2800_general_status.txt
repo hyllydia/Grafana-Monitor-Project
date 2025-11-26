@@ -1,0 +1,25 @@
+2025-11-25 23:14:47.378631 RAW Data:show status
+
+===================
+System Information:
+===================
+
+Model:                         NSa 2800
+Product Code:                  24505
+Firewall Name:                 18c2419be5f9
+Serial Number:                 18C2419BE5F9
+Authentication Code:           ERYE-DJ4H
+Firmware Version:              SonicOS 8.0.4-8013
+ROM Version:                   1.0.1.0
+CPUs:                          4.62% - 4 Cores
+System Time:                   11/26/2025 15:14:31
+Up Time:                       1 Day 23:54:34
+Primary WAN:                   X1
+Peak Connections:              Peak: 143019
+Current Connections:           Current: 23318
+Max Allowed Connections:       Max Allowed: 800000
+Max Connections:               Max: 800000
+Connection Usage:              2.915%
+Last Modified By:              Unmodified since reboot
+Registration Code:             6GZDP9T9
+--MORE--

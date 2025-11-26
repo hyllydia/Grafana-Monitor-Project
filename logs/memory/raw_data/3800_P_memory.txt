@@ -1,0 +1,12 @@
+2025-11-24 07:23:16.365645 RAW Data:diag show memory summary
+
+11/24 23:21:56: Memory Summary:
+Total system memory:          16347712 KiB
+Free system memory:            8455352 KiB
+Available system memory:       8873384 KiB
+All Available memory:          9793481 KiB
+Total allocated to SonicOS:    4751696 KiB
+Peak allocated to SonicOS:     4758000 KiB
+
+
+admin@18C241760433> 

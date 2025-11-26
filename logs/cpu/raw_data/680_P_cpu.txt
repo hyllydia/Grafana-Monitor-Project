@@ -1,0 +1,9 @@
+2025-11-25 23:17:54.023520 RAW Data:diag show multicore
+MultiCore Status
+Core # | Util(%) | Packet Rate (pps) | Bit Rate (kbps)
+------- --------- ------------------- ----------------
+     0         2                   0                 0
+     1         0                   5                 3
+     2         0                   1                 0
+     3         0                   1                 0
+admin@18c241a14070> 

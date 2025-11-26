@@ -1,0 +1,20 @@
+2025-11-25 23:17:00.695447 RAW Data:show high-availability status
+
+=========================
+High Availability Status:
+=========================
+
+HA Mode:                        None
+Status:                         Primary Disabled
+Primary State:                  NONE
+Secondary State:                NONE
+Active Up Time:                 High Availability Disabled
+Found Peer:                     No
+Settings Synchronized:          No
+Stateful HA Synchronized:       No
+HA Control Link:                Not Configured
+HA Data Link:                   Not Configured
+Active/Active DPI Link:         Not Configured
+Primary Stateful HA Licensed:   No
+Secondary Stateful HA Licensed: No
+admin@18c2418a3308> 
